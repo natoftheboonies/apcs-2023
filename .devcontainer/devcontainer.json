@@ -8,9 +8,11 @@
     "ghcr.io/devcontainers/features/java:1": {
       "version": "none",
       "installMaven": "false",
-      "installGradle": "false",
+      "installGradle": "false"
     },
-		"ghcr.io/devcontainers/features/node:1": {}
+		"ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/devcontainers/features/python:1": {}
+
 
   },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
