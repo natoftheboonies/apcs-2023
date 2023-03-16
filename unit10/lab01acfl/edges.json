@@ -1,0 +1,272 @@
+[
+  {
+    "trail": 126,
+    "dist": 0,
+    "nodes": ["A1"]
+  },
+  {
+    "trail": "Havekost Road",
+    "dist": 0,
+    "nodes": ["A1"]
+  },
+  {
+    "trail": 241,
+    "dist": 0.51,
+    "nodes": ["A1", "C4"]
+  },
+  {
+    "trail": 241,
+    "dist": 0.04,
+    "nodes": ["C4", "D4"]
+  },
+  {
+    "trail": 224,
+    "dist": 0.22,
+    "nodes": ["C4", "B7"]
+  },
+  {
+    "trail": 210,
+    "dist": 0.2,
+    "nodes": ["B7", "E6"]
+  },
+  {
+    "trail": 210,
+    "dist": 0.1,
+    "note": "junction 23 in middle",
+    "nodes": ["E6", "F6"]
+  },
+  {
+    "trail": 210,
+    "dist": 0.19,
+    "nodes": ["F6", "F8"]
+  },
+  {
+    "trail": 210,
+    "dist": 0.03,
+    "nodes": ["B7", "BC7"]
+  },
+  {
+    "trail": 210,
+    "dist": 0.61,
+    "nodes": ["BC7", "B11"]
+  },
+  {
+    "trail": 210,
+    "dist": 0.7,
+    "nodes": ["B11", "D12"]
+  },
+  {
+    "trail": 208,
+    "dist": 0.14,
+    "nodes": ["D4", "D3"]
+  },
+  {
+    "trail": 208,
+    "dist": 0.05,
+    "nodes": ["D3", "D2"]
+  },
+  {
+    "trail": 208,
+    "dist": 0.24,
+    "nodes": ["D2", "F1"]
+  },
+  {
+    "trail": 208,
+    "dist": 0.02,
+    "note": "probably part of .24, with .02 belonging D4-E4",
+    "nodes": ["F1", "FG1"]
+  },
+  {
+    "trail": 208,
+    "dist": 0.04,
+    "nodes": ["FG1", "G1"]
+  },
+  {
+    "trail": 208,
+    "dist": 0.02,
+    "nodes": ["G1", "H1"]
+  },
+  {
+    "trail": 209,
+    "dist": 0.02,
+    "nodes": ["D4", "DE4"]
+  },
+  {
+    "trail": 209,
+    "dist": 0.02,
+    "nodes": ["DE4", "E4"]
+  },
+  {
+    "trail": 209,
+    "dist": 0.14,
+    "nodes": ["E4", "FG23"]
+  },
+  {
+    "trail": 209,
+    "dist": 0.01,
+    "note": "total trail is .38, D4 intersection problematic.",
+    "nodes": ["FG23", "FG2"]
+  },
+  {
+    "trail": 209,
+    "dist": 0.11,
+    "nodes": ["FG1", "FG2"]
+  },
+  {
+    "trail": 244,
+    "dist": 0.14,
+    "nodes": ["DE4", "E6"]
+  },
+  {
+    "trail": 240,
+    "dist": 0.14,
+    "nodes": ["E4", "D3"]
+  },
+  {
+    "trail": 221,
+    "dist": 0.21,
+    "nodes": ["D2", "FG2"]
+  },
+  {
+    "trail": "Orchards",
+    "dist": 0,
+    "nodes": ["F1"]
+  },
+  {
+    "trail": 236,
+    "dist": 0.27,
+    "nodes": ["G1", "GH2"]
+  },
+  {
+    "trail": "Heart Lake Road",
+    "dist": 0,
+    "note": "TODO",
+    "nodes": ["H1", "H2", "H4", "GH5", "F7", "C14", "H5", "D13", "B21", "B22"]
+  },
+  {
+    "trail": 23,
+    "dist": 0.02,
+    "nodes": ["H2", "GH2"]
+  },
+  {
+    "trail": 23,
+    "dist": 0.03,
+    "nodes": ["GH2", "GH3"]
+  },
+  {
+    "trail": 23,
+    "dist": 0.06,
+    "nodes": ["GH3", "GH4"]
+  },
+  {
+    "trail": 23,
+    "dist": 0.14,
+    "nodes": ["GH4", "F6"]
+  },
+  {
+    "trail": 222,
+    "dist": 0.14,
+    "nodes": ["GH3", "FG23"]
+  },
+  {
+    "trail": 223,
+    "dist": 0.02,
+    "nodes": ["H4", "G4"]
+  },
+  {
+    "trail": 223,
+    "dist": 0.03,
+    "nodes": ["G4", "GH4"]
+  },
+  {
+    "trail": 211,
+    "dist": 0.02,
+    "nodes": ["G4", "H5"]
+  },
+  {
+    "trail": 211,
+    "dist": 0.23,
+    "nodes": ["H5", "FG7"]
+  },
+  {
+    "trail": 242,
+    "dist": 0.51,
+    "note": "dist must be off",
+    "nodes": ["FG7", "G8"]
+  },
+  {
+    "trail": "Heart Lake Parking",
+    "dist": 0.02,
+    "nodes": ["F8", "G8"]
+  },
+  {
+    "trail": 250,
+    "dist": 0.9,
+    "nodes": ["BC7", "A12"]
+  },
+  {
+    "trail": 243,
+    "dist": 0.11,
+    "nodes": ["B11", "A12"]
+  },
+  {
+    "trail": 212,
+    "dist": 0.36,
+    "nodes": ["A12", "D12"]
+  },
+  {
+    "trail": 212,
+    "dist": 0.24,
+    "nodes": ["D12", "D13"]
+  },
+  {
+    "trail": 212,
+    "dist": 0.56,
+    "nodes": ["A12", "C15"]
+  },
+  {
+    "trail": 25,
+    "dist": 0.05,
+    "nodes": ["D13", "D14"]
+  },
+  {
+    "trail": 25,
+    "dist": 0.21,
+    "nodes": ["D14", "C15"]
+  },
+  {
+    "trail": 220,
+    "dist": 0.8,
+    "nodes": ["D14", "A21"]
+  },
+  {
+    "trail": 220,
+    "dist": 0.05,
+    "nodes": ["A21", "B21"]
+  },
+  {
+    "trail": 213,
+    "dist": 0.36,
+    "nodes": ["C15", "Lookout"]
+  },
+  {
+    "trail": 249,
+    "dist": 0.01,
+    "nodes": ["A21", "B22"]
+  },
+  {
+    "trail": 249,
+    "dist": 0.4,
+    "nodes": ["B22", "A23"]
+  },
+  {
+    "trail": 249,
+    "dist": 0.6,
+    "nodes": ["A21", "A23"]
+  },
+  {
+    "trail": "View",
+    "dist": 0.03,
+    "nodes": ["A23"]
+  }
+]

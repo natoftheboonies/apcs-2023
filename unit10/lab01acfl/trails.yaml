@@ -1,0 +1,228 @@
+---
+intersections:
+  - node: A1
+    trails:
+      - 126
+      - Havekost Road
+      - 241
+  - node: C4
+    trails:
+      - 241
+      - 224
+  - node: B7
+    trails:
+      - 224
+      - 210
+  - node: A1
+    trails:
+      - 241
+      - 126
+  - node: C4
+    trails:
+      - 241
+      - 224
+  - node: D4
+    trails:
+      - 208
+      - 209
+      - 241
+  - node: DE4
+    trails:
+      - 244
+      - 209
+  - node: E4
+    trails:
+      - 209
+      - 240
+  - node: D3
+    trails:
+      - 208
+      - 240
+  - node: D2
+    trails:
+      - 208
+      - 221
+  - node: F1
+    trails:
+      - 208
+      - Orchards
+  - node: FG1
+    trails:
+      - 208
+      - 209
+  - node: G1
+    trails:
+      - 208
+      - 236
+  - node: H1
+    trails:
+      - 208
+      - Heart Lake Road
+  - node: H2
+    trails:
+      - 23
+      - Heart Lake Road
+  - node: GH2
+    trails:
+      - 236
+      - 23
+  - node: GH3
+    trails:
+      - 23
+      - 222
+  - node: FG23
+    trails:
+      - 222
+      - 209
+  - node: FG2
+    trails:
+      - 221
+      - 209
+  - node: H4
+    trails:
+      - 223
+      - Heart Lake Road
+  - node: G4
+    trails:
+      - 223
+      - 211
+  - node: GH4
+    trails:
+      - 223
+      - 23
+  - node: GH5
+    trails:
+      - 211
+  - node: H5
+    trails:
+      - 211
+      - Heart Lake Road
+  - node: E6
+    trails:
+      - 210
+      - 244
+  - node: F6
+    trails:
+      - 210
+      - 23
+  - node: F7
+    trails: 210
+  - node: FG7
+    trails:
+      - 211
+      - 242
+  - node: F8
+    trails:
+      - 210
+      - Heart Lake Parking
+  - node: G8
+    trails:
+      - 242
+      - Heart Lake Parking
+  - node: B7
+    trails:
+      - 224
+      - 210
+  - node: BC7
+    trails:
+      - 210
+      - 250
+  - node: B11
+    trails:
+      - 210
+      - 243
+  - node: A12
+    trails:
+      - 243
+      - 250
+      - 212
+  - node: D12
+    trails:
+      - 210
+      - 212
+  - node: D13
+    trails:
+      - 212
+      - Heart Lake Road
+      - 25
+  - node: D14
+    trails:
+      - 25
+      - 220
+  - node: C15
+    trails:
+      - 25
+      - 212
+      - 213
+  - node: C14
+    trails:
+      - 213
+  - node: A21
+    trails:
+      - 220
+      - 249
+  - node: B21
+    trails:
+      - 220
+      - Heart Lake Road
+  - node: B22
+    trails:
+      - 249
+      - Heart Lake Road
+  - node: A23
+    trails:
+      - 249
+      - View
+
+edges:
+  - trail: 250
+    dist: .90
+    nodes:
+      - B7
+      - A11
+  - trail: 250
+    dist: .10
+    nodes:
+      - A11
+      - A12
+  - trail: 243
+    dist: .11
+    nodes:
+      - B11
+      - A12
+  - trail: 249
+    dist: .60
+    nodes:
+      - A23
+      - B22
+  - trail: 249
+    dist: .40
+    nodes:
+      - A23
+      - A21
+
+  - trail: 241
+    nodes:
+      - A1
+      - C4
+    dist: 0.51
+  - trail: 224
+    dist: 0.22
+    nodes:
+      - C4
+      - B7
+  - trail: 25
+    dist: .11
+    nodes:
+      - D13
+      - D14
+  - trail: 25
+    dist: .21
+    nodes:
+      - D14
+      - C15
+  - trail: 213
+    dist: .36
+    nodes:
+      - C14
+      - C15
