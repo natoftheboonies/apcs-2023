@@ -9,5 +9,6 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 10 🧑‍🏫
 
+- Thursday, March 16: Lesson 10-3 [Recursion: Let's take a hike!](unit10/10-3.md)
 - Tuesday, March 14 🥧: Lesson 10-2 [Recursion, Not All Bad?!](unit10/10-2.md)
 - Monday, March 13: Lesson 10-1 [Hello Recursion!](unit10/10-1.md)
