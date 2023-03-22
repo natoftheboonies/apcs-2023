@@ -1,6 +1,10 @@
 # Version Control HOWTO
 
-GitHub uses [Git](https://git-scm.com/) for Version Control. Git is an industry standard, and [Git can be tricky](https://blog.upperlinecode.com/how-to-teach-git-commits-github-to-teenagers/).
+See also: [VS Code on Windows without Admin HOWTO](Window-NoAdmin.md).
+
+GitHub uses [Git](https://git-scm.com/) for Version Control. Git is an industry standard, and [Git can be tricky](https://blog.upperlinecode.com/how-to-teach-git-commits-github-to-teenagers/). But everyone uses it, none the less. [Here is a comic](https://xkcd.com/1597/) about how that typically goes.
+
+## Using Git in VS Code
 
 VS Code tries to make it a bit easier. It still can be tricky. :)
 
@@ -25,21 +29,10 @@ After you have saved your changes, use "Push" to send them to GitHub, and "Pull"
 
 ![pull](pull.png)
 
-If it gives you an error ending in `fatal: Need to specify how to reconcile divergent branches.` then I suggest the `# rebase` option. Copy+Paste+Enter into your "Terminal" window (bottom):
+## Help I get Errors!
+
+If it gives you an error ending in `fatal: Need to specify how to reconcile divergent branches.` then it offers a bit of help to resolve. I suggest the `# rebase` option. Copy+Paste+Enter into your "Terminal" window (bottom):
 
 - `git config --global pull.rebase true`
 
-Maybe this is sufficient to get you unstuck?
-
-## Git, Java in Visual Studio Code on Windows (without Admin) HOWTO
-
-If you have Admin rights, just install normal Git and normal Java. ([Recommended](https://whichjdk.com/) is [Adoptium](https://adoptium.net/temurin/releases/) OpenJDK version 17)
-
-1. Visit [Git Downloads](https://git-scm.com/download/windows) and choose the "Portable" edition.
-2. Download and unzip this on your computer somewhere, like a "Git" folder in your home directory.
-3. Within VS Code Settings, search for "git path" and then edit within settings.json. Per [StackOverflow](https://stackoverflow.com/questions/71515762/use-portable-vscode-with-portable-git), set `"git.path"` to `"C:\\Users\\XXX\\Git\\cmd\\git"` replacing XXX with your username (or wherver you unzipped it).
-4. Open Command prompt, navigate to this folder, and add some git configuration:
-   - `git config --global user.email "youremail@stu.asd103.org"`
-   - `git config --global user.name "Firstname Lastname"`
-   - `git config --global pull.rebase true`
-5. Restart VS Code, visit the "Version Control" tab, select "Clone Repository", and clone your GitHub repo.
+Maybe this is sufficient to get you unstuck? If not, ask me and we'll add to this page. :-)
