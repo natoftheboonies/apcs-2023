@@ -25,7 +25,7 @@ If you have Admin rights, just install normal Git and normal Java.
 2. Set your %PATH% to know about java. Hit WindowsKey-I, search for "environment", and select "Edit environment variables for your account."
    - Add one called `JAVA_HOME` set to `C:\Users\xxx\jdk-17.0.6+10` (or wherever you unzipped it),
    - Edit the `PATH` environment variable to point to `%JAVA_HOME%\bin` near the top of the list.
-   - While you are here, also add `C:\Users\xxx\Git\cmd` (or wherever you put Portable Git) to your `PATH` somewhat lower.
+   - While you are here, also add `C:\Users\xxx\Git\cmd` (or wherever you put Portable Git, including the `cmd` subdirectory) to your `PATH` somewhat lower.
 3. See if they work! Open up a command prompt, and try:
    - `java -version` Maybe there is already a different java version, and that's OK.
    - `git -v` should show "git version 2.40.0.windows.1" or something.
@@ -41,7 +41,7 @@ If you have Admin rights, just install normal Git and normal Java.
 ## Configure your Development Environment
 
 1. Open Visual Studio Code, select Extensions (from the bottom-left gear) and then install the "Extension Pack for Java"
-2. Within VS Code Settings, search for "git path" and then edit within settings.json. Per [StackOverflow](https://stackoverflow.com/questions/71515762/use-portable-vscode-with-portable-git), set `"git.path"` to `"C:\\Users\\XXX\\Git\\cmd\\git"` replacing XXX with your username (or wherver you unzipped it).
+2. Within VS Code Settings, search for "git path" and then edit within settings.json. Per [StackOverflow](https://stackoverflow.com/questions/71515762/use-portable-vscode-with-portable-git), set `"git.path"` to `"C:\\Users\\XXX\\Git\\cmd\\git"` replacing XXX with your username (or wherever you unzipped it).
 3. In the same settings.json file, add a `"java.jdt.ls.java.home"` property and set it to your java unzip, perhaps like `"C:\\Users\\XXX\\jdk-17.0.6+10"`.
    - Remember the comma after each property so your settings.json is error free.
    - while you are in settings.json, a property like `"git.autofetch": true` would also be helpful.
