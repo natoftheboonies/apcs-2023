@@ -30,6 +30,8 @@ Note that this is not especially efficient code. How might we optimize our code?
 
 ## Lab Checkpoints
 
+- Lab Code: [`SpellingBee.java`](SpellingBee.java)
+
 Within the code, there is a series of TODOs. This is what you are asked to work on.
 
 - The `main` function already loads the words for you. Run it, and verify it prints "Loaded 9894 words"
