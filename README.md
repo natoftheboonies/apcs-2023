@@ -12,7 +12,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 10 🧑‍🏫
 
-- Friday, March 24: Lesson 1-7 [Recursion Esoterica](unit10/10-7.md)
+- Friday, March 24: Lesson 10-7 [Recursion Esoterica](unit10/10-7.md)
 - Thursday, March 23: Lesson 10-6 [Sorting and Searching](unit10/10-6.md)
 - Tuesday, March 21: Lesson 10-5 [Recursive Sorting](unit10/10-5.md)
 - Monday, March 20: Lesson 10-4 [Intro to Sorting](unit10/10-4.md)
