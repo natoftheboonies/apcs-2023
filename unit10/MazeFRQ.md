@@ -89,4 +89,11 @@ Similarly, it is also important to unmark the spot as visited once recursion com
 
 Finally, implement `hasSolution` to determine if the maze is has a solution or not.
 
+I thought [`Integer.parseInt(String s)`](https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html#parseInt-java.lang.String-) was on your quick reference sheet, but as it is not - you will find it useful here.
+
+```
+int val = Integer.parseInt("42");
+// val is now 42.
+```
+
 Good luck!
