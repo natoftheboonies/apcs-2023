@@ -11,6 +11,10 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 - Due Monday, March 20, before class: [Calculate Pi](unit10/10-2.md#homework)
 - Due Thursday, March 16, before class: [Sign up for GitHub](unit10/10-1.md#homework-sign-up-for-github)
 
+## Unit 11 🧑‍🏫
+
+- Friday, March 31: Lesson 11-1 [AP Exam Boot Camp](unit11/11-1.md)
+
 ## Unit 10 🧑‍🏫
 
 - Thursday, March 30: Lesson 10-10 [Unit 10 Exam](unit10/10-10.md)
