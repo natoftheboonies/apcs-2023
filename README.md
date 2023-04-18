@@ -4,6 +4,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Homework 👩‍💻👨‍💻
 
+- Due Thursday, April 20, before class: [Boot Camp Drills](unit11/11-7.md#homework): choose two!
 - Due Tuesday, April 18, before class: [Boot Camp Drills](unit11/11-6.md#homework): choose two!
 - Due Friday, April 14, before class: [Code-a-FRQ](unit11/11-4.md#homework): RandomStringChoser
 - Due Thursday, April 13, before class: [Boot Camp Drills](unit11/11-3.md#homework): StepTracker, CodeWordChecker
@@ -17,6 +18,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 11 🧑‍🏫
 
+- Tuesday, April 18: Lesson 11-7 [Boot Camp Drills](unit11/11-7.md)
 - Monday, April 17: Lesson 11-6 [Boot Camp Drills](unit11/11-6.md)
 - Friday, April 14: Lesson 11-5 [Math](unit11/11-5.md)
 - Thursday, April 13: Lesson 11-4 [AP Exam Scores](unit11/11-4.md)
