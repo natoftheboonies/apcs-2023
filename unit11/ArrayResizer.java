@@ -45,7 +45,7 @@ public class ArrayResizer {
         int[][] smaller = ArrayResizer.resize(arr);
         int[][] target = { arr[1], arr[3] };
         check(smaller.length == 2);
-        check(Arrays.equals(smaller, target));
+        check(Arrays.deepEquals(smaller, target));
         System.out.println("Happy Panda! \uD83D\uDC3C");
 
     }
