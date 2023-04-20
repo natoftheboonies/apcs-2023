@@ -18,6 +18,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 11 🧑‍🏫
 
+- Thursday, April 20: Lesson 11-8 [MCQ Fun](unit11/11-8.md)
 - Tuesday, April 18: Lesson 11-7 [Boot Camp Drills](unit11/11-7.md)
 - Monday, April 17: Lesson 11-6 [Boot Camp Drills](unit11/11-6.md)
 - Friday, April 14: Lesson 11-5 [Math](unit11/11-5.md)
