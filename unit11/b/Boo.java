@@ -11,11 +11,11 @@ public class Boo {
 
     public static boolean is2True(boolean a, boolean b) {
         return a && b;
-        // return !(a || b);
         // return !a && !b;
+        // return !(a || b);
         // return !(a && b);
         // return !(a != b) || a && !b;
-        // return !(a != 5 && b <= 0)
+        // return (a || b) && !(a && b);
     }
 
     public static boolean is3True(boolean a, boolean b, boolean c) {

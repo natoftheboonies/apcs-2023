@@ -4,11 +4,13 @@ Bat.java: 🦇
 
 - What do these functions do?
 - You can save time by reading the question first!
+- Invent some parameter values to help understand the code.
 
 Bucket.java: 🪣
 
 - What does `static` do?
 - What is the difference between "by value" vs. "by reference"
+- Java passes primitive values by value, and objects by reference
 
 Bear.java: 🧸
 
@@ -32,6 +34,7 @@ Boo.java: 👻
 Base.java: 🕳️
 
 - Somebody once told me bases are on the exam.
+  - They were wrong.
 
 Bunny.java: 🐰
 
