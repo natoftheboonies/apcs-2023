@@ -20,6 +20,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 11 🧑‍🏫
 
+- Monday, May 2: Lesson 11-15 [Study Day](unit11/11-15.md)
 - Monday, May 1: Lesson 11-14 [Study Day](unit11/11-14.md)
 - Friday, April 28: Lesson 11-13 [Code Review](unit11/11-13.md)
 - Thursday, April 27: Lesson 11-12 [Dice 🎲🎲](unit11/11-12.md)
