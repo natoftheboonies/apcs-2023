@@ -4,6 +4,14 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Homework 👩‍💻👨‍💻
 
+- Due Monday, May 8, before class: [Data Ethics](unit12/12-1.md#homework): 📜 Essay or Conversation
+
+## Unit 12 🧑‍🏫
+
+- Thursday, May 4 🌌: Lesson 12-1 [Beyond Java](unit12/12-1.md)
+
+## Homework, Units 10 & 11 👩‍💻👨‍💻
+
 - Due Wednesday, May 3, before exam: [csawesome's 11.1 Post Test](unit11/11-11.md#homework)
 - Due Monday, April 24, before class: [Code-a-FRQ](unit11/11-9.md#homework): Crossword, or alternative
 - Due Thursday, April 20, before class: [Boot Camp Drills](unit11/11-7.md#homework): choose two!
