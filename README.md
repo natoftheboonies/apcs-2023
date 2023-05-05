@@ -8,6 +8,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 12 🧑‍🏫
 
+- Friday, May 5 🌮: Lesson 12-2 [From Java to Python 🐍](unit12/12-2.md)
 - Thursday, May 4 🌌: Lesson 12-1 [Beyond Java](unit12/12-1.md)
 
 ## Homework, Units 10 & 11 👩‍💻👨‍💻
