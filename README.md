@@ -9,6 +9,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 12 🧑‍🏫
 
+- Monday, May 15: Lesson 12-7 [Project Proposals 🌞](unit12/12-7.md)
 - Friday, May 12: Lesson 12-6 [Projects 🚧](unit12/12-6.md)
 - Thursday, May 11: Lesson 12-5 [Beyond Data❓](unit12/12-5.md)
 - Tuesday, May 9: Lesson 12-4 [Exploring Data](unit12/12-4.md)
