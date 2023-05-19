@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spark Demo</title>
+  </head>
+  <body>
+    <h1>Hello Spark!</h1>
+
+    <input type="text" name="name" id="name" />
+    <button id="hook">request</button>
+
+    <ul id="results"></ul>
+
+    <script>
+      // adds an item to the "results" list.
+      function addResult(message) {
+        const node = document.createElement("li");
+        node.innerHTML = `Client got: <b>${message}</b>`;
+        document.getElementById("results").appendChild(node);
+      }
+
+      // asynchronously call the server with the "name" parameter
+      // https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+      async function getMessage(name) {
+        const response = await fetch("/hello/" + name);
+        const data = await response.text();
+        // pass the result to the "addResult" function
+        addResult(data);
+      }
+
+      // add a button event listener
+      document.getElementById("hook").addEventListener("click", (e) => {
+        e.preventDefault();
+        // retrieve the textbox value
+        let foo = document.getElementById("name").value;
+        getMessage(foo);
+      });
+    </script>
+  </body>
+</html>
