@@ -4,7 +4,7 @@
 
     <!-- project coordinates - values which uniquely identify this project -->
     <groupId>example</groupId>
-    <artifactId>hello</artifactId>
+    <artifactId>demo-spark</artifactId>
     <version>1.0</version>
     
     <properties>
