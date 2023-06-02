@@ -4,11 +4,14 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Homework 👩‍💻👨‍💻
 
+- Due Monday, June 12: All outstanding work you wish to receive credit for.
+- Due Monday, June 5: Project Package 🎁
 - Due Monday, May 15, by period end: [Project Proposal](unit12/12-6.md#homework)
 - Due Monday, May 8, before class: [Data Ethics](unit12/12-1.md#homework): 📜 Essay or Conversation
 
 ## Unit 12 🧑‍🏫
 
+- Thursday, June 2: Lesson 12-16 [Project Pivot](unit12/12-16.md)
 - Thursday, June 1: Lesson 12-15 [Project Polish](unit12/12-15.md)
 - Friday, May 26: Lesson 12-14 [Project Plans](unit12/12-14.md)
 - Thursday, May 25: Lesson 12-13 [Progress Projects](unit12/12-13.md)
