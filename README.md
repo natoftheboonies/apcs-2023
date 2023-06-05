@@ -5,13 +5,15 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 ## Homework 👩‍💻👨‍💻
 
 - Due Monday, June 12: All outstanding work you wish to receive credit for.
-- Due Monday, June 5: Project Package 🎁
-- Due Monday, May 15, by period end: [Project Proposal](unit12/12-6.md#homework)
-- Due Monday, May 8, before class: [Data Ethics](unit12/12-1.md#homework): 📜 Essay or Conversation
+- Due Monday, June 5: [Project Package 🎁](unit12/12-16.md#project-rubric)
+
+## Unit 13 🧑‍🏫
+
+- Monday, June 5: Lesson 13-1 [Course Conclusion](unit13/13-1.md)
 
 ## Unit 12 🧑‍🏫
 
-- Thursday, June 2: Lesson 12-16 [Project Pivot](unit12/12-16.md)
+- Friday, June 2: Lesson 12-16 [Project Pivot](unit12/12-16.md)
 - Thursday, June 1: Lesson 12-15 [Project Polish](unit12/12-15.md)
 - Friday, May 26: Lesson 12-14 [Project Plans](unit12/12-14.md)
 - Thursday, May 25: Lesson 12-13 [Progress Projects](unit12/12-13.md)
@@ -28,8 +30,10 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 - Friday, May 5 🌮: Lesson 12-2 [From Java to Python 🐍](unit12/12-2.md)
 - Thursday, May 4 🌌: Lesson 12-1 [Beyond Java](unit12/12-1.md)
 
-## Homework, Units 10 & 11 👩‍💻👨‍💻
+## Homework, Units 10, 11, & 12 👩‍💻👨‍💻
 
+- Due Monday, May 15, by period end: [Project Proposal](unit12/12-6.md#homework)
+- Due Monday, May 8, before class: [Data Ethics](unit12/12-1.md#homework): 📜 Essay or Conversation
 - Due Wednesday, May 3, before exam: [csawesome's 11.1 Post Test](unit11/11-11.md#homework)
 - Due Monday, April 24, before class: [Code-a-FRQ](unit11/11-9.md#homework): Crossword, or alternative
 - Due Thursday, April 20, before class: [Boot Camp Drills](unit11/11-7.md#homework): choose two!
