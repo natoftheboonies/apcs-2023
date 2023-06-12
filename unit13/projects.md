@@ -14,11 +14,11 @@ Stock data: [source code](https://github.com/frankpeterson/apcs-2023/tree/main/p
 
 ## Will, Logan, Sean, Aaron
 
-Unity / Astronaut something
+Unity / Astronaut something [Tie-The-Shoe](https://github.com/WHomegames/Tie-The-Shoe) (Private)
 
 ## Billy
 
-Java game
+Java game: [source code](https://github.com/billjread/apcs-2023/tree/main/Unit%2012%20-%20Project)
 
 ## Kai
 
@@ -38,7 +38,9 @@ Flappy bird: [source code](https://github.com/m-rygg/apcs-2023/tree/main/unit13_
 
 ## Clara
 
-Jumping Mouse in Unity:
+Jumping Mouse in Unity: [source code](https://github.com/pinkbagel/apcs-2023/tree/main/unit12/Game)
+
+![mouse](https://github.com/pinkbagel/apcs-2023/blob/main/unit12/Game/Sprites/Mouse1.png?raw=true)
 
 ## Mikiah
 
@@ -50,8 +52,8 @@ Jumping Mouse in Unity:
 
 ## Issac
 
-Music-Math something: [source code](https://github.com/briefisa/apcs-2023/tree/main/Code) (Python, Java)
+Music-y Math: [source code](https://github.com/briefisa/apcs-2023/tree/main/Code) ([Python](https://github.com/briefisa/apcs-2023/blob/main/Code/Convolve.py), [Java](https://github.com/briefisa/apcs-2023/blob/main/Code/Convolve.java))
 
 ## Noah
 
-Math factoring (SFFT) practice: [source code](https://github.com/NDD53/apcs-2023/tree/main/src/main/java) (Java)
+Math factoring (SFFT) practice: [source code](https://github.com/NDD53/apcs-2023/tree/main/unit13/My%20Project) (Java)
