@@ -4,23 +4,23 @@
 
 [Welcome to the NFL](https://marleybaker11.github.io/apcs-2023/): [source code](https://github.com/marleybaker11/apcs-2023/tree/main/project) (Java, HTML, JavaScript)
 
-## Marc
+## [Marc](https://github.com/ValenciaOverAnacortes/apcs-2023/blob/main/frankbot/README.md)
 
 Discord bot to find lyrics: [source code](https://github.com/ValenciaOverAnacortes/apcs-2023/tree/main/frankbot) (JavaScript)
 
-## Frank
+## [Frank](https://github.com/frankpeterson/apcs-2023/blob/main/project/README.md)
 
 Stock data: [source code](https://github.com/frankpeterson/apcs-2023/tree/main/project) (Python)
 
-## Will, Logan, Sean, Aaron
+## [Will](https://github.com/Peterwil000/apcs-2023/blob/main/SHWILON.md), [Logan](https://github.com/WHomegames/Tie-The-Shoe/blob/main/README.md), [Sean](https://github.com/Sean605/APCS-2023/blob/main/unit13/README.md), [Aaron](https://github.com/WAAJ123/apcs-2023/blob/main/unit13/README.md)
 
-Unity / Astronaut something [Tie-The-Shoe](https://github.com/WHomegames/Tie-The-Shoe) (Private)
+Unity 3D game + Astronaut Model [Tie-The-Shoe](https://github.com/WHomegames/Tie-The-Shoe) (Private)
 
 ## Billy
 
 Java game: [source code](https://github.com/billjread/apcs-2023/tree/main/Unit%2012%20-%20Project)
 
-## Kai
+## [Kai](https://github.com/kona4kai/apcs-2023/blob/main/unit13/READMEconnect4.md)
 
 Connect 4 (and bots): [source code](https://github.com/Anacortes-Coding-Club/connect-four) (Java AWT)
 
@@ -32,28 +32,28 @@ Scrabble: [source code](https://github.com/Tessellation19/mangos/blob/main/unit1
 
 Art & game something
 
-## Mya
+## [Mya](https://github.com/m-rygg/apcs-2023/blob/main/unit13_flappybird/README.md)
 
 Flappy bird: [source code](https://github.com/m-rygg/apcs-2023/tree/main/unit13_flappybird) (C#, Unity)
 
-## Clara
+## [Clara](https://github.com/pinkbagel/apcs-2023/blob/main/unit13/Game/README.md)
 
-Jumping Mouse in Unity: [source code](https://github.com/pinkbagel/apcs-2023/tree/main/unit12/Game)
+Jumping Mouse in Unity: [source code](https://github.com/pinkbagel/apcs-2023/tree/main/unit13/Game)
 
-![mouse](https://github.com/pinkbagel/apcs-2023/blob/main/unit12/Game/Sprites/Mouse1.png?raw=true)
+![mouse](https://github.com/pinkbagel/apcs-2023/blob/main/unit13/Game/Sprites/Mouse1.png?raw=true)
 
-## Mikiah
+## [Mikiah](https://github.com/dunhamik000/apcs-2023/blob/main/project/README.md)
 
 [What's Your Grade?](https://dunhamik000.github.io/apcs-2023/): [source code](https://github.com/dunhamik000/apcs-2023/tree/main/project) (HTML, JavaScript)
 
-## Naomi
+## [Naomi](https://github.com/norgy07/apcs-2023/blob/main/final%20project/README.md)
 
 [Affirmations](https://norgy07.github.io/apcs-2023/): [source code](https://github.com/norgy07/apcs-2023/tree/main/final%20project) (HTML, JavaScript)
 
-## Issac
+## [Issac](https://github.com/briefisa/apcs-2023/blob/main/unit13/Final%20Project/README.md)
 
-Music-y Math: [source code](https://github.com/briefisa/apcs-2023/tree/main/Code) ([Python](https://github.com/briefisa/apcs-2023/blob/main/Code/Convolve.py), [Java](https://github.com/briefisa/apcs-2023/blob/main/Code/Convolve.java))
+Music-y Math: [source code](https://github.com/briefisa/apcs-2023/tree/main/unit13/Final%20Project) (Python)
 
-## Noah
+## [Noah](https://github.com/NDD53/apcs-2023/blob/main/unit13/My%20Project/README.md)
 
 Math factoring (SFFT) practice: [source code](https://github.com/NDD53/apcs-2023/tree/main/unit13/My%20Project) (Java)
