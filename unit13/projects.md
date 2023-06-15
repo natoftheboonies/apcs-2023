@@ -16,9 +16,9 @@ Stock data: [source code](https://github.com/frankpeterson/apcs-2023/tree/main/p
 
 Unity 3D game + Astronaut Model [Tie-The-Shoe](https://github.com/WHomegames/Tie-The-Shoe) (Private)
 
-## Billy
+## [Billy](https://github.com/billjread/apcs-2023/blob/main/PROJECT_README.md)
 
-Java game: [source code](https://github.com/billjread/apcs-2023/tree/main/Unit%2012%20-%20Project)
+Java game: [source code](https://github.com/billjread/apcs-2023/tree/main/Unit12pro)
 
 ## [Kai](https://github.com/kona4kai/apcs-2023/blob/main/unit13/READMEconnect4.md)
 

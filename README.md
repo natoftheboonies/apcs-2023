@@ -4,6 +4,7 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
 ## Unit 13 🧑‍🏫
 
+- Friday, June 16: Lesson 13-7 [Go Forth and Think!](unit13/13-7.md)
 - Thursday, June 15: Lesson 13-6 [Fake News](unit13/13-6.md)
 - Monday, June 12: Lesson 13-5 [Course Retrospective](unit13/13-5.md)
 - Friday, June 9: Lesson 13-4 [Project Demos](unit13/13-4.md)
