@@ -2,18 +2,34 @@
 
 Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 
-## Homework 👩‍💻👨‍💻
-
-- Due Monday, June 12: All outstanding work you wish to receive credit for.
-- Due Monday, June 5: [Project Package 🎁](unit12/12-16.md#project-rubric)
-
 ## Unit 13 🧑‍🏫
 
+- Thursday, June 15: Lesson 13-6 [Fake News](unit13/13-6.md)
 - Monday, June 12: Lesson 13-5 [Course Retrospective](unit13/13-5.md)
 - Friday, June 9: Lesson 13-4 [Project Demos](unit13/13-4.md)
 - Thursday, June 8: Lesson 13-3 [Project Demos](unit13/13-3.md)
 - Tuesday, June 6: Lesson 13-2 [Time Machine](unit13/13-2.md)
 - Monday, June 5: Lesson 13-1 [Course Conclusion](unit13/13-1.md)
+
+## Homework 👩‍💻👨‍💻
+
+- Due Monday, June 12: All outstanding work you wish to receive credit for.
+- Due Monday, June 5: [Project Package 🎁](unit12/12-16.md#project-rubric)
+- Due Monday, May 15, by period end: [Project Proposal](unit12/12-6.md#homework)
+- Due Monday, May 8, before class: [Data Ethics](unit12/12-1.md#homework): 📜 Essay or Conversation
+- Due Wednesday, May 3, before exam: [csawesome's 11.1 Post Test](unit11/11-11.md#homework)
+- Due Monday, April 24, before class: [Code-a-FRQ](unit11/11-9.md#homework): Crossword, or alternative
+- Due Thursday, April 20, before class: [Boot Camp Drills](unit11/11-7.md#homework): choose two!
+- Due Tuesday, April 18, before class: [Boot Camp Drills](unit11/11-6.md#homework): choose two!
+- Due Friday, April 14, before class: [Code-a-FRQ](unit11/11-4.md#homework): RandomStringChoser
+- Due Thursday, April 13, before class: [Boot Camp Drills](unit11/11-3.md#homework): StepTracker, CodeWordChecker
+- Due Tuesday, April 11, before class: [Boot Camp Drills](unit11/11-2.md#homework): FrogSimulation, APCalendar
+- Due Friday, March 31, before class: [Maze FRQ](unit10/10-6.md#homework-maze-frq)
+- Due Friday, March 31, before class: [SpellingBee Lab](unit10/lab02bee/README.md)
+- Due Thursday, March 23, before class: [String sort](unit10/10-5.md#homework) or alternatives (`Recur.java`)
+- Due Tuesday, March 21, before class: [Shuffle function](unit10/10-4.md#homework)
+- Due Monday, March 20, before class: [Calculate Pi](unit10/10-2.md#homework)
+- Due Thursday, March 16, before class: [Sign up for GitHub](unit10/10-1.md#homework-sign-up-for-github)
 
 ## Unit 12 🧑‍🏫
 
@@ -33,24 +49,6 @@ Anacortes High School - AP Computer Science A - Spring 2023 Course Materials
 - Monday, May 8: Lesson 12-3 [Collecting Data](unit12/12-3.md)
 - Friday, May 5 🌮: Lesson 12-2 [From Java to Python 🐍](unit12/12-2.md)
 - Thursday, May 4 🌌: Lesson 12-1 [Beyond Java](unit12/12-1.md)
-
-## Homework, Units 10, 11, & 12 👩‍💻👨‍💻
-
-- Due Monday, May 15, by period end: [Project Proposal](unit12/12-6.md#homework)
-- Due Monday, May 8, before class: [Data Ethics](unit12/12-1.md#homework): 📜 Essay or Conversation
-- Due Wednesday, May 3, before exam: [csawesome's 11.1 Post Test](unit11/11-11.md#homework)
-- Due Monday, April 24, before class: [Code-a-FRQ](unit11/11-9.md#homework): Crossword, or alternative
-- Due Thursday, April 20, before class: [Boot Camp Drills](unit11/11-7.md#homework): choose two!
-- Due Tuesday, April 18, before class: [Boot Camp Drills](unit11/11-6.md#homework): choose two!
-- Due Friday, April 14, before class: [Code-a-FRQ](unit11/11-4.md#homework): RandomStringChoser
-- Due Thursday, April 13, before class: [Boot Camp Drills](unit11/11-3.md#homework): StepTracker, CodeWordChecker
-- Due Tuesday, April 11, before class: [Boot Camp Drills](unit11/11-2.md#homework): FrogSimulation, APCalendar
-- Due Friday, March 31, before class: [Maze FRQ](unit10/10-6.md#homework-maze-frq)
-- Due Friday, March 31, before class: [SpellingBee Lab](unit10/lab02bee/README.md)
-- Due Thursday, March 23, before class: [String sort](unit10/10-5.md#homework) or alternatives (`Recur.java`)
-- Due Tuesday, March 21, before class: [Shuffle function](unit10/10-4.md#homework)
-- Due Monday, March 20, before class: [Calculate Pi](unit10/10-2.md#homework)
-- Due Thursday, March 16, before class: [Sign up for GitHub](unit10/10-1.md#homework-sign-up-for-github)
 
 ## Unit 11 🧑‍🏫
 
